@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>ipa包路径，可以放在http服务器</string>
+                        <string>https://github.com/aona0806/test/blob/master/SimpleOrder.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
